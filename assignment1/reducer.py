@@ -9,7 +9,7 @@ for line in sys.stdin:
 	
 	hitIP= str(data[0])
 	if "10.99.99.186" == hitIP:
-		countTotal+=1
+		count+=1
 
 
 print count
