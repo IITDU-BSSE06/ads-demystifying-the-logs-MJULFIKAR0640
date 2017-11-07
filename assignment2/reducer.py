@@ -9,7 +9,7 @@ for line in sys.stdin:
 	
 	hitaddress= str(data[0])
 	if "/assets/js/the-associates.js" in hitaddress:
-		countTotal+=1
+		count+=1
 
 
 print count
